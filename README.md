@@ -37,7 +37,7 @@ php artisan migrate
 ```
 
 
-## How to use
+## Usage
 
 To start logging CRUD operations simply use the trait on your models.
 
@@ -48,3 +48,16 @@ class Post extends Model
 
     ...
 ```
+
+
+---
+
+
+## License
+
+**codetech/laravel-loggable** is open-sourced software licensed under the [MIT license](https://github.com/CodeTechPt/laravel-loggable/blob/master/LICENSE).
+
+
+## About CodeTech
+
+[CodeTech](https://www.codetech.pt) is a web development agency based on Matosinhos, Portugal. Oh, and we LOVE Laravel!
