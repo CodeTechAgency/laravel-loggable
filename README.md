@@ -1,7 +1,7 @@
 ![laravel-loggable-repo-banner](https://user-images.githubusercontent.com/17640929/161713530-72a60c45-68ae-4d9c-8e4c-6cc8657d9bae.jpg)
 
 
-# Laravel Publishable
+# Laravel Loggable
 
 Laravel package to log CRUD operations.
 
